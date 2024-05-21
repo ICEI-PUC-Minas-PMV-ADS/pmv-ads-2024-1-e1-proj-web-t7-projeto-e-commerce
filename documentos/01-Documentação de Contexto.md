@@ -1,35 +1,32 @@
 # Introdução
 
-[Aqui a equipe deve criar um texto descritivo com a visão geral do problema abordado, apresentando o ambiente e as situações envolvidas no problema.]
+A transição do ambiente de compras tradicional para o comércio eletrônico traz mudanças significativas na maneira como as pessoas adquirem produtos."
+
+Dentre as dificuldades enfrentadas, observa-se a falta de acesso a produtos de qualidade e o acompanhamento das tendências necessárias para a compra eficiente dos consumidores, visto que no comércio eletrônico as decisões de compra são realizadas de forma mais autônoma pelos clientes.
+
+Dessa forma, torna-se necessário preencher essa lacuna enfrentada pelos consumidores online, para que sua experiência de compra não seja prejudicada pelas adversidades citadas.
 
 ## Problema
-[Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
-
-Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+Diante do exposto, o desafio que se busca superar com este projeto é a falta de suporte enfrentada pelos consumidores online no que se refere ao acesso a produtos de qualidade e informações relevantes para uma compra consciente.
 
 
 ## Objetivos
 
-[Aqui a equipe deve realizar uma descrição detalhada dos objetivos do trabalho, ressaltando quais as questões principais do problema a serem resolvidas pelo projeto, não é a hora de apresentar requisitos detalhados.]
- 
-Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+O objetivo geral deste projeto é a criação de um e-commerce de fácil acesso e uso que permita aos consumidores a busca e aquisição de produtos de qualidade, além de fornecer informações relevantes para auxiliar na tomada de decisão de compra.
+
+Como objetivos específicos, podemos destacar:
+
+Oferecer uma plataforma de e-commerce fácil de usar para apoiar consumidores online em suas compras; Auxiliar esses consumidores na busca por produtos de qualidade e tendências de mercado; Conectar os consumidores a produtos e informações relevantes para uma compra consciente.
 
 ## Justificativa
 
-[Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
+A internet, prioritariamente os sites de comércio eletrônico, consiste em um campo que possibilita atuações diferenciadas por seus usuários. Para o público consumidor, por exemplo, os sites de e-commerce são mais do que um ambiente utilizado para adquirir produtos, pois também é espaço de aprendizado, de expressão e de troca de experiências.
 
-Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema, inserindo-o como alvo de estudo. Sugere-se que a equipe utilize questionários, entrevistas e dados estatísticos, que devem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pela equipe.]
-
-Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
+Portanto, a criação de um e-commerce para a resolução deste problema foi motivada pela presença da internet na vida das pessoas e pela variedade de usos que fazem dela.
 ## Público-Alvo
 
-[Aqui é necessário descrever os atores envolvidos no problema, destacando os diferentes perfis de usuários. O propósito é apresentar as características, necessidades, conhecimentos prévios e experiência com a tecnologia do público-alvo.
+Embora os desafios citados possam ocorrer em diferentes faixas etárias, o foco deste trabalho está no público consumidor online.
 
-Sugere-se que a equipe utilize questionários e/ou entrevistas a fim de conhecer os atores que compõem o público alvo.]
+Assim, estabeleceu-se como público-alvo desta solução homens e mulheres de todas as idades que realizam compras online, pois enfrentam os desafios de encontrar produtos de qualidade e tomar decisões de compra informadas.
 
-Os links abaixo podem ajudar a equipe a conhecer um pouco mais sobre o público-alvo. 
-
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-
+Além dos consumidores online com o perfil citado acima, o projeto também é voltado para empresas que desejam vender seus produtos através do e-commerce e contribuir para uma experiência de compra positiva para os consumidores.
