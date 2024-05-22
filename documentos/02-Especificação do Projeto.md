@@ -87,7 +87,7 @@ Com base na análise dos perfis de usuários, foram identificadas as seguintes h
 |RF-07| Permitir ao administrador adicionar, editar e remover produtos do catálogo | ALTA |
 |RF-08| Disponibilizar relatórios de vendas, estoque e desempenho da plataforma para o administrador | MÉDIA |
 |RF-09| Implementar medidas de segurança cibernética para proteger a plataforma e os dados dos clientes | ALTA |
-|RF-10| Manter a plataforma atualizada com novos recursos e melhorias de forma regular | BAIXA |
+
 
 **Prioridade: ALTA / MÉDIA / BAIXA.  
 
