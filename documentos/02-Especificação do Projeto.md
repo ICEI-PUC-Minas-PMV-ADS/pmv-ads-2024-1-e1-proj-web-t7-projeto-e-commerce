@@ -83,8 +83,8 @@ Com base na análise dos perfis de usuários, foram identificadas as seguintes h
 |RF-03| Permitir aos clientes adicionar produtos ao carrinho de compras e proceder para o checkout | ALTA |
 |RF-04| Oferecer opções de pagamento seguras e variadas, incluindo cartão de crédito, PayPal, etc. | ALTA |
 |RF-05| Permitir aos clientes rastrear o status do pedido e receber atualizações de entrega | MÉDIA |
-|RF-06| Facilitar a comunicação entre clientes e suporte ao cliente para resolver problemas e responder a dúvidas | MÉDIA |
-|RF-07| Permitir ao administrador adicionar, editar e remover produtos do catálogo | ALTA |
+|RF-06| O site deve permitir os usuarios crição de contas | MÉDIA |
+|RF-07| O site deve permitir os usuarios fazer log-in de contas| MÉDIA |
 |RF-08| Disponibilizar relatórios de vendas, estoque e desempenho da plataforma para o administrador | MÉDIA |
 
 
