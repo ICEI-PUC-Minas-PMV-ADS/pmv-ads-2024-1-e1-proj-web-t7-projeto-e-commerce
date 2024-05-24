@@ -3,33 +3,57 @@
 
 ## User Flow
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de navegação do usuário na aplicação. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+O fluxograma apresentado na figura 1 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Protótipo de baixa fidelidade que se segue. Para visualizar o protótipo interativo, acesse o https://www.canva.com/design/DAGGFCMOBuU/ROwahQAJnby5peGszQs9cQ/view?utm_content=DAGGFCMOBuU&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
-[Adicione aqui o diagrama de fluxo de usuário da sua aplicação.] 
+![Inserir um título](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/d25ab08a-5655-42c4-b135-d4049213ce3e)
 
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
+Figura 1- Fluxo de telas do usuario
 
-## Protótipo
+### Homepage
+A tela homepage apresenta todos os produtos disponíves de todas as categorias,suas informações /preço/descrição/avaliação e o carrinho de compras
 
-Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas de validar uma ideia, conceito ou funcionalidade. Isso permite a interação, avaliação, modificação e aprovação das principais características de uma interface antes de entrar na fase de desenvolvimento. Leia o artigo [Protótipos: baixa, média ou alta fidelidade?](https://medium.com/ladies-that-ux-br/prot%C3%B3tipos-baixa-m%C3%A9dia-ou-alta-fidelidade-71d897559135).
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/a17d376c-d699-491f-95b5-c2ec82ed34c5)
 
-### Protótipo de baixa fidelidade
 
-Protótipos de baixa fidelidade apresentam de forma simplificada o design da interface e o relacionamento entre suas páginas, permitindo evolução da proposta da solução. Neste projeto, os utilizaremos para apoiar a validação dos requisitos e efetuar mudanças dos mesmos, caso seja necessário, para menor impacto na codificação da aplicação.
 
-[Elabore as principais interfaces gráficas da aplicação de modo que os requisitos funcionais sejam contemplados nas telas propostas.]
-
-[Adicione aqui as telas da sua aplicação com seus devidos títulos.] 
+Figura 2- Página principal
+### Tela movéis
+ A tela movéis apresenta as informações dos movéis disponíves/preço/descrição/avaliação e o carrinho de compras
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/89f1bcdf-9332-4201-bd57-065468ec8a62)
+Figura 3- Página movéis
  
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
->- Ferramentas:
->> - [Pencil](https://pencil.evolus.vn/)
->> - [MarvelApp](https://marvelapp.com/)
->> - [Figma](https://www.figma.com/)
+ ### Tela celuares
+ A tela celuares apresenta as informações /preço/descrição/avaliação dos celulares disponíveis e o carrinho de compras
+ 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/15afe549-7c7b-40bd-ba54-eaefae4fbc05)
+
+Figura 4- Página celulares
+### Tela tv-vídeo
+ A tela tv e vídeo apresenta as informações /preço/descrição/avaliação das televisões disponíveis e o carrinho de compras
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/bb98bb96-08fe-4521-8ddc-56c785d8f3fa)
+Figura 5- Página tv-vídeo
+### Tela eletro-domésticos
+ A tela eletro-domésticos apresenta as informações /preço/descrição/avaliação dos eletro-domésticos disponíveis e o carrinho de compras
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/7659fbbf-b0d6-45ee-b34f-c8997da6299b)
+Figura 6- Página eletro domésticos
+### Tela login
+A tela de Login apresenta campos para a inserção do e-mail e da senha, e a funcionalidade de logar na conta e ir para  página principal.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/8c8386ff-f085-4be0-b3d3-d78fcf8358f2)
+Figura 7- Página login
+### Tela cadastro
+A tela de cadastro apresenta os seguintes campos para a inserção das informações pessoais do usuário: Nome Completo, E-mail,Senha e Confirmação de Senha.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/c1c7b3f9-7a8e-43bb-ba4c-989e5ed08512)
+### Tela carrinho de compras
+A tela do carrinho de compras apresentra os produtos adicionados junto as suas informações Imagem/Nome/Descrição/Preço/Quantidade/Ação/Subtotal, subtotal da compra e ação de remover os itens no carrinho 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/2c0ba623-b7a4-4fb9-b2e3-bfadb2014420)
+Figura 8- Página carrinho de compras
+### Tela pagamento
+A tela de pagamento apresenta o carrinho de compras junto aos intens adicionados campos de inserção de nome,e-mail,endereço de entrega,cidade,cep,número do Cartão,data de Validade do Cartão,CVV, opção de selecionar o estado
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/3d6921dd-647e-4645-8723-301699ae91f0)
+Figura 9- Página finalizar compra
 
 
 
