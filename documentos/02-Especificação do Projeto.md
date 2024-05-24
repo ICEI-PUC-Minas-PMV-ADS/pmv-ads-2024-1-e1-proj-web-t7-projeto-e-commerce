@@ -86,7 +86,6 @@ Com base na análise dos perfis de usuários, foram identificadas as seguintes h
 |RF-06| Facilitar a comunicação entre clientes e suporte ao cliente para resolver problemas e responder a dúvidas | MÉDIA |
 |RF-07| Permitir ao administrador adicionar, editar e remover produtos do catálogo | ALTA |
 |RF-08| Disponibilizar relatórios de vendas, estoque e desempenho da plataforma para o administrador | MÉDIA |
-|RF-09| Implementar medidas de segurança cibernética para proteger a plataforma e os dados dos clientes | ALTA |
 
 
 **Prioridade: ALTA / MÉDIA / BAIXA.  
@@ -98,7 +97,7 @@ Com base na análise dos perfis de usuários, foram identificadas as seguintes h
 |RNF-01| Garantir a disponibilidade da plataforma  | ALTA | 
 |RNF-02| Assegurar a velocidade de carregamento rápido das páginas | ALTA | 
 |RNF-03| Manter a plataforma responsiva para diferentes dispositivos (computadores, tablets, smartphones) | ALTA | 
-|RNF-04| Garantir a segurança dos dados dos clientes por meio de criptografia e outras medidas de segurança | ALTA | 
+
 
 
 **Prioridade: ALTA / MÉDIA / BAIXA.
