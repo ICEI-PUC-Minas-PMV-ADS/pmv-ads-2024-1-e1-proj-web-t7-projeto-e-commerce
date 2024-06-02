@@ -1,12 +1,20 @@
-# Template padrão da Aplicação
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
-[Apresente a estrutura padrão da sua aplicação.]
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+O layout padrão do site foi construído com as linguagens de marcação HTML e CSS, e a linguagem de programação JavaScript foi utilizada para a construção do menu responsivo.
+
+<ul>
+<li>Cores: RGB:  #333, #666,  #2196F3,#ffe, #FFD700,white;</li>
+<li>Font-family: Arial, Helvetica, sans-serif e cursive.</li>
+<li>Font-size: 15px e 28px. </li>
+</ul>
+<h3><b>Tela de visualização de todos os produtos</b></h3>
+<p>Exibe informações sobre os produtos, preço,descrição,avaliação,imagem,nome,carrinho de compras, barra de pesquisa.</p>
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/f29add89-698e-48b4-9317-492da6293537)
+<figcaption> Figura 1 - visualização de todos os produtos
+<h3><b>Tela de visualizaçã do carrinho de compras</b></h3>
+<p>Exibe informações sobre os itens no carrinho e as comrpas feitas.</p>
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/87136a88-23c0-4c38-be58-d1dbb1ac6e01)
+<figcaption> Figura 2 - visualização  do carrinho de compras
