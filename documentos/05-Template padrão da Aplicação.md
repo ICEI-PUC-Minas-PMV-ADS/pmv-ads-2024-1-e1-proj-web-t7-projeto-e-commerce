@@ -6,7 +6,7 @@ O layout padrão do site foi construído com as linguagens de marcação HTML e 
 <ul>
 <li>Cores: RGB:  #333, #666,  #2196F3,#ffe, #FFD700,white;</li>
 <li>Font-family: Arial, Helvetica, sans-serif e cursive.</li>
-<li>Font-size: 15px e 28px. </li>
+<li>Font-size:  1.2rem e 1rem. </li>
 </ul>
 <h3><b>Tela de visualização de todos os produtos</b></h3>
 <p>Exibe informações sobre os produtos, preço,descrição,avaliação,imagem,nome,carrinho de compras, barra de pesquisa.</p>
