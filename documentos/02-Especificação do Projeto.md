@@ -81,7 +81,7 @@ Com base na análise dos perfis de usuários, foram identificadas as seguintes h
 |RF-01| Permitir aos clientes pesquisar e navegar por produtos por categoria | ALTA | 
 |RF-02| Exibir informações detalhadas sobre cada produto, incluindo preço, especificações técnicas e avaliações dos clientes | ALTA | 
 |RF-03| Permitir aos clientes adicionar produtos ao carrinho de compras | ALTA |
-|RF-04| Permitir  que apos os clientes adicionarem produtos ao carrinho de compras possam proceder para o checkout | ALTA |
+|RF-04| Permitir  que apos os clientes adicionarem produtos ao carrinho de compras possam proceder para o pagamento | ALTA |
 |RF-05| Oferecer opções de pagamento com cartão de crédito. | ALTA |
 |RF-06| Permitir aos clientes possam verificar os itens comprados| MÉDIA |
 |RF-07| O site deve permitir os usuarios crição de contas | MÉDIA |
