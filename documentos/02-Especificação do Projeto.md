@@ -86,7 +86,7 @@ Com base na análise dos perfis de usuários, foram identificadas as seguintes h
 |RF-06| Permitir aos clientes possam verificar os itens comprados| MÉDIA |
 |RF-07| O site deve permitir os usuarios crição de contas | MÉDIA |
 |RF-08| O site deve permitir os usuarios fazer log-in de contas| MÉDIA |
-|RF-09| Disponibilizar relatórios de vendas, estoque e desempenho da plataforma para o administrador | MÉDIA |
+|RF-09| Disponibilizar relatórios de vendas,para o administrador| MÉDIA |
 
 
 **Prioridade: ALTA / MÉDIA / BAIXA.  
