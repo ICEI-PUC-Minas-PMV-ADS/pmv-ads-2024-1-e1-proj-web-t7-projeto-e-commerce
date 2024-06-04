@@ -166,6 +166,13 @@ RF-005 Oferecer opções de pagamento com cartão de crédito.
 
 ●	carrinho.js
 
+#### Estrutura de Dados
+●	[pagamento.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/blob/main/codigo-fonte/pagamento/pagamento.html)
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL:[https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/blob/main/codigo-fonte/carrinho/carrinho.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/blob/main/codigo-fonte/pagamento/pagamento.html) <br>E tera acesso a pagina de pagemnto</br>
+
 
 ### Compras feitas (RF-006)
 
