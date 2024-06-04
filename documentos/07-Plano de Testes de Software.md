@@ -87,7 +87,8 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>CT-03: Verificar detalhes dos produtos</td>
   <td>
  
-<ul><li>RF-02	Exibir informações detalhadas sobre cada produto, incluindo preço, imagem, descrição e avaliações dos clientes</li></ul>
+<ul><li>RF-02	Exibir informações detalhadas sobre cada produto, incluindo preço, imagem, descrição e avaliações dos clientes</li>
+<li>RF-03	Permitir aos clientes adicionar produtos ao carrinho de compras</li></ul>
   
    
   </td>
@@ -106,7 +107,7 @@ Eletro-domésticos</td>
     <li>Seguir o link para página Eletro-domésticos</li>
    </ol>
    </td>
-  <td>Todas as informações, incluindo preço, imagem, descrição e avaliações dos clientes, devem estar presentes em todas as paginas.</td>
+  <td>Todas as informações, incluindo preço, imagem, descrição e avaliações dos clientes, devem estar presentes em todas as paginas e deve ser possivel adicionar o item ao carrinho em todas.</td>
   <td>Estevão</td>
  </tr>
 </table>
