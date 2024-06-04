@@ -92,7 +92,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   
    
   </td>
-  <td>Verificar se todas as informações referentes aos livros estão disponíveis na página Home,Móveis
+  <td>Verificar se todas as informações referentes aos produtos estão disponíveis na página Home,Móveis
 Celulares
 TV e vídeo
 Eletro-domésticos</td>
