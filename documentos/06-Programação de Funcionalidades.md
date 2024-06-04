@@ -88,6 +88,11 @@ Exemplo do filtro de adicionar ao carrinho:
 
 ![adicionar_carrinho](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/533bd8c1-7331-413c-a2d4-95d4485cf72c)
 
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/blob/main/codigo-fonte/home/home.html <br>E tera acesso a homepage</br>
+
+
 
 
 #### Requisitos atendidos
@@ -106,6 +111,14 @@ RF-03	Permitir aos clientes adicionar produtos ao carrinho de compras e proceder
 ●carrinho.css
 
 ●carrinho.js
+
+#### Estrutura de Dados
+
+●[carrinho.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/blob/main/codigo-fonte/carrinho/carrinho.html))
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL:https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/blob/main/codigo-fonte/carrinho/carrinho.html <br>E tera acesso a pagina do carrinho</br>
 
 
 ### Tela de Pagamento (RF-004)
