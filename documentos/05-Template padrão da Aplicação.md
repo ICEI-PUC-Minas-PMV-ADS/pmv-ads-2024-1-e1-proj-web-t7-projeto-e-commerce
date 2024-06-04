@@ -15,6 +15,16 @@ O layout padrão do site foi construído com as linguagens de marcação HTML e 
 <figcaption> Figura 1 - visualização de todos os produtos
 <h3><b>Tela de visualizaçã do carrinho de compras</b></h3>
 <p>Exibe informações sobre os itens no carrinho e as comrpas feitas.</p>
+<hr>
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/87136a88-23c0-4c38-be58-d1dbb1ac6e01)
 <figcaption> Figura 2 - visualização  do carrinho de compras
+
+  <hr>
+  
+<p>Para a criação da logo Escolhi esta imagem para representar nosso logotipo porque ela encapsula perfeitamente a identidade visual e os valores fundamentais da nossa marca de e-commerce. A utilização de elementos visuais tecnológicos, como circuitos e linhas futuristas, reflete nosso compromisso com a inovação e a modernidade. O ícone do carrinho de compras, que inclui um globo, simboliza nossa capacidade de operar globalmente, oferecendo produtos e serviços a nível mundial..</p>
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/a1c7cff8-cca6-4862-93f6-92fab9e907f7)
+
+   <figcaption>Figura 3 - Logotipo da aplicação web E-commerce
+  
