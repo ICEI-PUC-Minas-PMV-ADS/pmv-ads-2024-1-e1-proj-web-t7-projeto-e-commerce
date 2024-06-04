@@ -79,7 +79,7 @@ Com base na análise dos perfis de usuários, foram identificadas as seguintes h
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-01| Permitir aos clientes pesquisar e navegar por produtos por categoria | ALTA | 
-|RF-02| Exibir informações detalhadas sobre cada produto, incluindo preço, especificações técnicas e avaliações dos clientes | ALTA | 
+|RF-02| Exibir informações detalhadas sobre cada produto, incluindo preço, imagem, descrição  e avaliações dos clientes | ALTA | 
 |RF-03| Permitir aos clientes adicionar produtos ao carrinho de compras | ALTA |
 |RF-04| Permitir  que apos os clientes adicionarem produtos ao carrinho de compras possam proceder para o pagamento | ALTA |
 |RF-05| Oferecer opções de pagamento com cartão de crédito. | ALTA |
