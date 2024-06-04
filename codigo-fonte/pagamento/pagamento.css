@@ -1,0 +1,68 @@
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+select:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+/* Estilize o campo quando inválido */
+.is-invalid {
+    border-color: #dc3545;
+}
+
+input[type="text"].is-invalid,
+input[type="email"].is-invalid,
+select.is-invalid {
+    box-shadow: 0 0 5px rgba(220, 53, 69, 0.5);
+}
+
+.btn {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+.btn-primary {
+    background-color: green;
+}
+.error {
+    color: red;
+    display: block;
+    margin-top: 5px;
+}
+
+.hidden {
+    display: none;
+}
+
+.input-invalid {
+    border: 1px solid #dc3545 !important; /* Cor vermelha para a borda */
+    box-shadow: 0 0 5px rgba(220, 53, 69, 0.5) !important; /* Sombra vermelha */
+}
