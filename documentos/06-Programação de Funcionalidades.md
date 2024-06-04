@@ -40,7 +40,7 @@ RF-01	Permitir aos clientes pesquisar e navegar por produtos por categoria
 
 Abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/blob/main/codigo-fonte/home/home.html <br>E tera acesso a homepage</br>
 
-
+<hr>
 
 ### Informações do produto (RF-002)
 
@@ -72,9 +72,9 @@ RF-002: Exibir informações detalhadas sobre cada produto, incluindo preço, es
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/blob/main/codigo-fonte/home/home.html <br>E tera acesso a homepage</br>
+Abra um navegador de Internet e informe a seguinte URL:<br>E tera acesso a homepage</br>
 
-
+<hr>
 
 ### Carrinho de compras (RF-003)
 
@@ -90,7 +90,7 @@ Exemplo do filtro de adicionar ao carrinho:
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/blob/main/codigo-fonte/home/home.html <br>E tera acesso a homepage</br>
+Abra um navegador de Internet e informe a seguinte URL:  <br>E tera acesso a homepage</br>
 
 
 
@@ -118,8 +118,9 @@ RF-03	Permitir aos clientes adicionar produtos ao carrinho de compras e proceder
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL:https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/blob/main/codigo-fonte/carrinho/carrinho.html <br>E tera acesso a pagina do carrinho</br>
+Abra um navegador de Internet e informe a seguinte URL: <br>E tera acesso a pagina do carrinho</br>
 
+<hr>
 
 ### Tela de Pagamento (RF-004)
 
@@ -146,9 +147,16 @@ RF-004	Permitir que apos os clientes adicionarem produtos ao carrinho de compras
 
 ●	carrinho.js
 
+#### Estrutura de Dados
+●	[pagamento.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/blob/main/codigo-fonte/pagamento/pagamento.html)
+
+### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: <br>e tera acesso a pagina home </br>
+<hr>
 
 ### Tela formulário de  Pagamento (RF-005)
-O acesso a tela de pagamento poderá ser feito após o login do usuário, adicionar um item ao carrinho e clickar no botao de finalizar compra
+O acesso a tela de pagamento poderá ser feito após o login do usuário, adicionar um item ao carrinho e clicar no botao de finalizar compra
 Exemplo da tela de Pagamentos:
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/dbd858aa-3bc4-4883-9b6d-d8649e98540b)
 
@@ -166,13 +174,15 @@ RF-005 Oferecer opções de pagamento com cartão de crédito.
 
 ●	carrinho.js
 
+
 #### Estrutura de Dados
 ●	[pagamento.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/blob/main/codigo-fonte/pagamento/pagamento.html)
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL:[https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/blob/main/codigo-fonte/carrinho/carrinho.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/blob/main/codigo-fonte/pagamento/pagamento.html) <br>E tera acesso a pagina de pagemnto</br>
+Abra um navegador de Internet e informe a seguinte URL: <br>E tera acesso a pagina de pagamento</br>
 
+<hr>
 
 ### Compras feitas (RF-006)
 
@@ -193,12 +203,23 @@ RF-006	Permitir aos clientes possam verificar os itens comprados
 
 #### Artefatos da funcionalidade
 
-●	cadastro.html
+●	carrinho.html
 
-● cadastro.css
+● carrinho.css
 
-●	cadastro.js
+●	carrinho.js
 
+●	pagamento.js
+
+#### Estrutura de Dados
+
+●	[carrinho.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/blob/main/codigo-fonte/carrinho/carrinho.html)
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: <br>E tera acesso a pagina de carrinho/br>
+
+<hr>
 
 
 ### Tela de Cadastro (RF-007)
@@ -218,13 +239,26 @@ RF-007	O site deve permitir os usuarios crição de contas
 
 #### Artefatos da funcionalidade
 
-●	carrinho.html
+●	cadastro.html
 
-● carrinho.css
+● cadastro.css
 
-●	carrinho.js
+● cadastro.js
 
-●	pagamento.js
+●	cadastro.js
+
+#### Estrutura de Dados
+
+●	[cadastro.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/blob/main/codigo-fonte/cadastro/cadastro.html)
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: <br>E tera acesso a pagina de cadastro/br>
+
+<hr>
+
+
+
 
 ### Tela de Login (RF-008)
 
@@ -254,6 +288,17 @@ RF-008	O site deve permitir os usuarios fazer log-in de contas
 
 ●	cadastro.js
 
+#### Estrutura de Dados
+
+●	[login.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/blob/main/codigo-fonte/login/login.html)
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: <br>E tera acesso a pagina de login </br>
+
+<hr>
+
+
 ### Tela de Vendas (RF-009)
 
 Responsável: Estevão
@@ -276,7 +321,15 @@ RF-009	Disponibilizar relatórios de vendas,para o administrador
 ● vendas.css
 
 ●	vendas.js
+#### Estrutura de Dados
 
+●	[vendas.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/blob/main/codigo-fonte/vendas/vendas.html)
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: <br>E tera acesso a pagina de vendas </br>
+
+<hr>
 
 
 
