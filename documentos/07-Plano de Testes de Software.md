@@ -95,7 +95,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>Verificar se todas as informações referentes aos produtos estão disponíveis na página Home,Móveis
 Celulares
 TV e vídeo
-Eletro-domésticos</td>
+Eletro-domésticos e verificar se esta adicionando so produtos aos carrinhos</td>
   <td>
    <ol>
     <li>Acessar o navegador.</li>
