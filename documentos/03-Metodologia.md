@@ -13,7 +13,7 @@ Desta forma, a equipe está organizada da seguinte maneira:
 <ul>
   <li>Scrum Master: Estevão Barboza</li>
   <li>Product Owner: Estevão Barboza</li>
-  <li>Equipe de Desenvolvimento:Estevão Barboza/li>
+  <li>Equipe de Desenvolvimento:Estevão Barboza</li>
   <li>Equipe de Design:Estevão Barboza</li>
 </ul>
 
