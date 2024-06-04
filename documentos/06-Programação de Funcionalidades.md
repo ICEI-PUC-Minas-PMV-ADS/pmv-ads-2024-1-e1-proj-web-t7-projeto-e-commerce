@@ -34,12 +34,12 @@ RF-01	Permitir aos clientes pesquisar e navegar por produtos por categoria
 
 #### Estrutura de Dados
 
-[Caso exista estrutura de dados, adicione aqui]
-
+●[home.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/cadastro/cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/blob/main/codigo-fonte/home/home.html))
 
 #### Instruções de acesso
 
-[Adicione as orientações de acesso à funcionalidade]
+Abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/blob/main/codigo-fonte/home/home.html <br>E tera acesso a homepage</br>
+
 
 
 ### Informações do produto (RF-002)
