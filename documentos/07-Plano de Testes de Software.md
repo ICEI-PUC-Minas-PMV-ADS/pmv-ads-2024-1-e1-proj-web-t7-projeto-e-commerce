@@ -19,7 +19,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-01: Verificar o funcionamento dos links da página Home</td>
+  <td> CT-01: Verificar o funcionamento dos links da página Home</td>
   <td>
    <ul>
     <li>RF-01	Permitir aos clientes pesquisar e navegar por produtos por categoria</li>
@@ -53,7 +53,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-02: Verificar o funcionamento do filtro de pesquisa</td>
+  <td> CT-02: Verificar o funcionamento do filtro de pesquisa</td>
   <td>
  
 <ul><li>RF-01	Permitir aos clientes pesquisar e navegar por produtos por categoria</li></ul>
@@ -84,7 +84,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-03: Verificar detalhes dos produtos</td>
+  <td> CT-03: Verificar detalhes dos produtos</td>
   <td>
  
 <ul><li>RF-02	Exibir informações detalhadas sobre cada produto, incluindo preço, imagem, descrição e avaliações dos clientes</li>
@@ -122,7 +122,7 @@ Eletro-domésticos e verificar se esta adicionando so produtos aos carrinhos</td
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-04: Verificar o cadastro de usuários</td>
+  <td> CT-04: Verificar o cadastro de usuários</td>
   <td>
  
 <ul><li>RF-07	O site deve permitir os usuarios crição de contas</li></ul>
@@ -156,7 +156,7 @@ Eletro-domésticos e verificar se esta adicionando so produtos aos carrinhos</td
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-05: Verificar o pagamento</td>
+  <td> CT-05: Verificar o pagamento</td>
   <td>
  
 <ul>
@@ -193,7 +193,7 @@ Eletro-domésticos e verificar se esta adicionando so produtos aos carrinhos</td
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-06: Verificar o pagina de vendas</td>
+  <td> CT-06: Verificar o pagina de vendas</td>
   <td>
  
 <ul>
