@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.venda {
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+p, h2, h3 {
+    margin: 5px 0;
+}
