@@ -67,6 +67,14 @@ RF-002: Exibir informações detalhadas sobre cada produto, incluindo preço, es
 
 ●pesquisa.js
 
+#### Estrutura de Dados
+●[home.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/cadastro/cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/blob/main/codigo-fonte/home/home.html))
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/blob/main/codigo-fonte/home/home.html <br>E tera acesso a homepage</br>
+
+
 
 ### Carrinho de compras (RF-003)
 
