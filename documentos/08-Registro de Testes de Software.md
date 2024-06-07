@@ -44,7 +44,117 @@ CT-04: Verificar o cadastro de usuários
 
 Responsável:Estevão
 
-CT-05: Verificar o pagamento
+| Caso de Teste | CT 05 – Verificar o pagamento |
+|---------------|-------------------------------|
+| **Pré-condições** | Estar na tela de pagamento |
+| **Procedimento (passo a passo)** | 1) Adicionar um produto no carrinho<br>2) Clicar em finalizar compra<br>3) Preencher um formulário de pagamento<br>4) Pagar |
+| **Dados de entrada** | nulo |
+| **Resultado esperado** | Mensagem de erro do sistema |
+| **Resultado obtido** |![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/37b51b1c-29ec-45d5-8cda-b1fae31f03e9) |
+| **Avaliação (pegou / não pegou erro)** | RE != RO Pegou erro |
+|Resposavel|Estevão|
 
-Responsável:Estevão
+
+
+
+
+| Caso de Teste | CT 05 – Verificar o pagamento |
+|---------------|-------------------------------|
+| **Pré-condições** | Estar na tela de pagamento |
+| **Procedimento (passo a passo)** | 1) Adicionar um produto no carrinho<br>2) Clicar em finalizar compra<br>3) Preencher um formulário de pagamento<br>4) Pagar |
+| **Dados de entrada** | nome camp: esteva01 (o nome não pode conter números) |
+| **Resultado esperado** | Mensagem de erro do sistema |
+| **Resultado obtido** |![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/e62a691e-3ed4-4c7b-a034-2d25da37e785) |
+| **Avaliação (pegou / não pegou erro)** | RE != RO Pegou erro |
+|Resposavel|Estevão|
+
+
+| Caso de Teste | CT 05 – Verificar o pagamento |
+|---------------|-------------------------------|
+| **Pré-condições** | Estar na tela de pagamento |
+| **Procedimento (passo a passo)** | 1) Adicionar um produto no carrinho<br>2) Clicar em finalizar compra<br>3) Preencher um formulário de pagamento<br>4) Pagar |
+| **Dados de entrada** | email  camp: estevao@gmail ( email invalido) |
+| **Resultado esperado** | Mensagem de erro do sistema |
+| **Resultado obtido** |![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/062fa0f2-b461-4c00-9db9-f3b0c8857412) |
+| **Avaliação (pegou / não pegou erro)** | RE != RO Pegou erro |
+|Resposavel|Estevão|
+
+
+| Caso de Teste | CT 05 – Verificar o pagamento |
+|---------------|-------------------------------|
+| **Pré-condições** | Estar na tela de pagamento |
+| **Procedimento (passo a passo)** | 1) Adicionar um produto no carrinho<br>2) Clicar em finalizar compra<br>3) Preencher um formulário de pagamento<br>4) Pagar |
+| **Dados de entrada** | endereço camp: rua silvio laranjeira 42 (o endereço não pode conter números) |
+| **Resultado esperado** | Mensagem de erro do sistema |
+| **Resultado obtido** |![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/3ffb5ffc-8387-4b9e-98aa-5afe1a7bb7e7) |
+| **Avaliação (pegou / não pegou erro)** | RE != RO Pegou erro |
+|Resposavel|Estevão|
+
+
+
+| Caso de Teste | CT 05 – Verificar o pagamento |
+|---------------|-------------------------------|
+| **Pré-condições** | Estar na tela de pagamento |
+| **Procedimento (passo a passo)** | 1) Adicionar um produto no carrinho<br>2) Clicar em finalizar compra<br>3) Preencher um formulário de pagamento<br>4) Pagar |
+| **Dados de entrada** | cep camp: 19312  (cep invalido falatando dígitos) |
+| **Resultado esperado** | Mensagem de erro do sistema |
+| **Resultado obtido** |![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/aacc100b-4b53-4103-89dd-5b035fb06017) |
+| **Avaliação (pegou / não pegou erro)** | RE != RO Pegou erro |
+|Resposavel|Estevão|
+
+
+| Caso de Teste | CT 05 – Verificar o pagamento |
+|---------------|-------------------------------|
+| **Pré-condições** | Estar na tela de pagamento |
+| **Procedimento (passo a passo)** | 1) Adicionar um produto no carrinho<br>2) Clicar em finalizar compra<br>3) Preencher um formulário de pagamento<br>4) Pagar |
+| **Dados de entrada** | número do cartão camp: 8128 3198 2389  (número do cartão faltando digítos) |
+| **Resultado esperado** | Mensagem de erro do sistema |
+| **Resultado obtido** |![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/93bc78e4-dfc8-48f4-967c-06f97238384b) |
+| **Avaliação (pegou / não pegou erro)** | RE != RO Pegou erro |
+|Resposavel|Estevão|
+
+
+
+| Caso de Teste | CT 05 – Verificar o pagamento |
+|---------------|-------------------------------|
+| **Pré-condições** | Estar na tela de pagamento |
+| **Procedimento (passo a passo)** | 1) Adicionar um produto no carrinho<br>2) Clicar em finalizar compra<br>3) Preencher um formulário de pagamento<br>4) Pagar |
+| **Dados de entrada** | data de validade do cartão camp: 12/23 (data de validade inválida pois o ano é menor que 24) |
+| **Resultado esperado** | Mensagem de erro do sistema |
+| **Resultado obtido** |![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/b3c89b15-5346-4e34-b204-fb318606ad36) |
+| **Avaliação (pegou / não pegou erro)** | RE != RO Pegou erro |
+|Resposavel|Estevão|
+
+
+| Caso de Teste | CT 05 – Verificar o pagamento |
+|---------------|-------------------------------|
+| **Pré-condições** | Estar na tela de pagamento |
+| **Procedimento (passo a passo)** | 1) Adicionar um produto no carrinho<br>2) Clicar em finalizar compra<br>3) Preencher um formulário de pagamento<br>4) Pagar |
+| **Dados de entrada** | CVV camp: 12 (Codigo segunrança do cartão faltando dígitos) |
+| **Resultado esperado** | Mensagem de erro do sistema |
+| **Resultado obtido** |![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/5115e88f-b2c4-4501-bee2-8522c3be042a) |
+| **Avaliação (pegou / não pegou erro)** | RE != RO Pegou erro |
+|Resposavel|Estevão|
+
+
+
+| Caso de Teste | CT 05 – Verificar o pagamento |
+|---------------|-------------------------------|
+| **Pré-condições** | Estar na tela de pagamento |
+| **Procedimento (passo a passo)** | 1) Adicionar um produto no carrinho<br>2) Clicar em finalizar compra<br>3) Preencher um formulário de pagamento<br>4) Pagar |
+| **Dados de entrada** | <ul>Dados cliente:<li>Endereço: Rua Silvio Laranjeira, numero: 42, Cidade: Rio de Janeiro, CEP:19312-838</li></ul><ul><li>Nome: estevao</li></ul><ul><li>e-mail: estevao@gmail.com</li></ul><ul>Dados do cartao:<li>Numero cartão:8128 3198 2389 1992</li><li>Validade:12/29</li><li>CVV:123</li></ul>
+| **Resultado esperado** | Mensagem de compra finalizada com sucesso |
+| **Resultado obtido** |![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/74c73fe0-50fe-47cd-8171-d1657ee2a0ee)|
+| **Avaliação (pegou / não pegou erro)** | RE != RO Pegou erro |
+|Resposavel|Estevão|
+
+| Caso de Teste | CT 06– Verificar a pagina de vendas |
+|---------------|-------------------------------|
+| **Pré-condições** | Estar na tela de Carrinho de compras|
+| **Procedimento (passo a passo)** | 1)estar logado como administraodor<br>2) Adicionar um produto no carrinho<br>3) Clicar em finalizar compra<br>4) Preencher um formulário de pagamento<br>5) Pagar <br>6)Acessar Página de Vendas |
+| **Dados de entrada** | <ul>Dados cliente:<li>Endereço: Rua Silvio Laranjeira, numero: 42, Cidade: Rio de Janeiro, CEP:19312-838</li></ul><ul><li>Nome: estevao</li></ul><ul><li>e-mail: estevao@gmail.com</li></ul><ul>Dados do cartao:<li>Numero cartão:8128 3198 2389 1992</li><li>Validade:12/29</li><li>CVV:123</li></ul> |
+| **Resultado esperado** | Mostrar a compra feita em uma tabela de vendas |
+| **Resultado obtido** |![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/assets/162747850/0be4839e-ae5f-497b-8980-f00deb6d8666) |
+| **Avaliação (pegou / não pegou erro)** | RE != RO Pegou erro |
+|Resposavel|Estevão|
 
