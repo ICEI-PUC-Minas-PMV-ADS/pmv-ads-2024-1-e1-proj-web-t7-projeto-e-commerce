@@ -1,6 +1,6 @@
 # E-commerce
 
-`Análise e Desenvolvimento de Sistemas - PUC Minas`codigo-fonte
+`Análise e Desenvolvimento de Sistemas - PUC Minas`
 
 `Desenvolvimento de aplicação web front-end`
 
