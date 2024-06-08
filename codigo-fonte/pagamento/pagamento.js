@@ -255,14 +255,20 @@ campos.forEach(function(id) {
             clearError('estado');
         }
 
-        // Validação do campo CEP
+       // Validação do campo CEP
         const cep = document.getElementById('cep').value.trim();
+        const cepPattern = /^[0-9]{5}-[0-9]{3}$/;
         if (cep === '') {
             showError('cep', 'O CEP é obrigatório.');
             isValid = false;
-        } else {
+            } 
+        else if (!cepPattern.test(cep)) {
+             showError('cep', 'O CEP deve estar no formato 00000-000.');
+            isValid = false;
+            } 
+        else {
             clearError('cep');
-        }
+            }
 
         // Validação do campo Número do Cartão
         const numeroCartao = document.getElementById('numero-cartao').value.trim();
@@ -295,23 +301,19 @@ campos.forEach(function(id) {
         }
 
         // Validação do campo CVV
-        const cvv = document.getElementById('cvv').value.trim();
-        
-        
-         // Verifica se o campo CVV está vazio
-    if (cvv === '') {
-        showError('cvv', 'O CVV é obrigatório.');
-        isValid = false;
-    }
-
-    
-    // Verifica se o campo CVV contém exatamente 3 dígitos e não contém letras
-    else if (!/^\d{3}$/.test(cvv)) {
-        showError('cvv', 'O número do CVV deve ter 3 dígitos e conter apenas números.');
-        isValid = false;
-    } else {
-        clearError('cvv');
-    }
+const cvv = document.getElementById('cvv').value.trim();
+if (cvv === '') {
+    showError('cvv', 'O CVV é obrigatório.');
+    isValid = false;
+} else if (/[a-zA-Z]/.test(cvv)) {
+    showError('cvv', 'O número do CVV deve conter apenas números.');
+    isValid = false;
+} else if (cvv.length !== 3) {
+    showError('cvv', 'O CVV deve conter exatamente 3 dígitos.');
+    isValid = false;
+} else {
+    clearError('cvv');
+}
 
     return isValid;
 }
