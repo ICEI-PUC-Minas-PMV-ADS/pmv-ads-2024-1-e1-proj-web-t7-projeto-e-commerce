@@ -38,7 +38,7 @@ RF-01	Permitir aos clientes pesquisar e navegar por produtos por categoria
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/blob/main/codigo-fonte/home/home.html <br>E tera acesso a homepage</br>
+Abra um navegador de Internet e informe a seguinte URL: </br>
 
 <hr>
 
@@ -72,7 +72,7 @@ RF-002: Exibir informações detalhadas sobre cada produto, incluindo preço, es
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL:<br>E tera acesso a homepage</br>
+Abra um navegador de Internet e informe a seguinte URL: <br>E tera acesso a homepage</br>
 
 <hr>
 
