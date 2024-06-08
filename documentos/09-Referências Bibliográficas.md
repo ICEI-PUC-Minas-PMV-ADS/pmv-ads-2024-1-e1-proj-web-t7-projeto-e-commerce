@@ -1,7 +1,5 @@
 # Referências Bibliográficas
 
-[Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.]
+Sites usados como referencia:<ul><li>Magazine Luiza disponível em: https://www.magazineluiza.com.br</li></ul>
+                             <ul><li>Kabum disponível em: https://www.kabum.com.br</li></ul>
 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
