@@ -9,12 +9,17 @@
     <link rel="stylesheet" href="carrinho.css">
     <script src="carrinho.js" defer></script>
     <script src="pagamento.js" defer></script>
+    <script src="login.js" defer></script>
 </head>
 <body>
     <header>
+        <script async src="carrinho.js"></script>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <h1 class="nome-empresa"><a href="home.html">Móveis & Tecnologia</a></h1>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
@@ -31,14 +36,19 @@
                     <li class="nav-item">
                         <a class="nav-link" href="eletro-domesticos.html">Eletro-domésticos</a>
                     </li>
+
                 </ul>
                 <form class="d-flex">
-                    <input id="resultado-pesquisa" class="form-control me-2" type="search" placeholder="Pesquisar produtos" aria-label="Search" onkeyup="pesquisa()">
-                    <button class="btn btn-outline-success" type="submit">Pesquisar</button>
+                    <input id="resultado-pesquisa" class="form-control me-2" type="search"
+                        placeholder="Pesquisar produtos" aria-label="Search" onkeyup="pesquisa()">
+                    
                 </form>
                 <a class="btn btn-outline-light ms-2" href="login.html">Login</a>
-                <a class="btn btn-outline-light ms-2" href="logout.html">Logout</a>
-                <button id="cart" class="btn btn-primary ms-2" onclick="window.location.href = 'carrinho.html';">Carrinho de Compras <i class="bi bi-cart"></i></button>
+                <a class="btn btn-outline-light ms-2" onclick="logout()">Logout</a>
+
+                <button id="cart" class="btn btn-primary ms-2"
+                    onclick="window.location.href = 'carrinho.html';">Carrinho de Compras <i
+                        class="bi bi-cart"></i></button>
             </div>
         </nav>
     </header>
@@ -79,6 +89,8 @@
                 </thead>
                 <tbody></tbody>
             </table>
+            <button id="Pagina-vendas" onclick="window.location.href = 'vendas.html';" style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">Acessar Página de Vendas</button>
+
         </div>
     </div>
 </body>
