@@ -20,9 +20,7 @@ Oferecer uma plataforma de e-commerce fácil de usar para apoiar consumidores on
 
 ## Justificativa
 
-A internet, prioritariamente os sites de comércio eletrônico, consiste em um campo que possibilita atuações diferenciadas por seus usuários. Para o público consumidor, por exemplo, os sites de e-commerce são mais do que um ambiente utilizado para adquirir produtos, pois também é espaço de aprendizado, de expressão e de troca de experiências.
-
-Portanto, a criação de um e-commerce para a resolução deste problema foi motivada pela presença da internet na vida das pessoas e pela variedade de usos que fazem dela.
+ resolver a falta de suporte no acesso a produtos de qualidade e informações relevantes é uma estratégia crucial para melhorar a experiência do consumidor, aumentar a confiança e fidelidade, reduzir custos operacionais, e fortalecer a posição da empresa no mercado.
 ## Público-Alvo
 
 Embora os desafios citados possam ocorrer em diferentes faixas etárias, o foco deste trabalho está no público consumidor online.
