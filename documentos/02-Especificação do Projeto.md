@@ -47,9 +47,8 @@ Administrador responsável pela gestão do e-commerce.
 <td>
 1. Gerenciamento eficiente dos produtos, incluindo adição, remoção e edição de itens; 
 2. Monitoramento das vendas, estoque e avaliações dos clientes; 
-3. Interação com os clientes para resolver problemas e responder a dúvidas; 
-4. Manutenção da segurança da plataforma e dos dados dos clientes; 
-5. Atualização contínua da plataforma para melhorar a experiência do usuário.
+
+
 </td>
 </tr>
 </tbody>
