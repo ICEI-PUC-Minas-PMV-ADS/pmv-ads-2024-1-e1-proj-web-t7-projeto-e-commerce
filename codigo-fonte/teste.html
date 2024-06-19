@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detalhes da Compra</title>
+    <style>
+        .tabela-itens {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        .tabela-itens th, .tabela-itens td {
+            border: 1px solid #ccc;
+            padding: 8px;
+            text-align: left;
+        }
+        .tabela-itens th {
+            background-color: #f2f2f2;
+        }
+        .tabela-itens img {
+            max-width: 100px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Detalhes da Compra</h2>
+    <div id="tabela-itens-compra"></div>
+    <script>
+        function mostrarInformacoesItemCompra() {
+            // Recuperar a div onde a tabela será exibida
+            const divTabela = document.getElementById('tabela-itens-compra');
+
+            // Recuperar os itens comprados do localStorage
+            const itensComprados = JSON.parse(localStorage.getItem('itensComprados'));
+
+            // Verificar se há itens comprados
+            if (itensComprados && itensComprados.length > 0) {
+                // Criar a tabela
+                const tabela = document.createElement('table');
+                tabela.classList.add('tabela-itens');
+
+                // Criar o cabeçalho da tabela
+                const cabecalho = document.createElement('thead');
+                const cabecalhoRow = document.createElement('tr');
+                cabecalho.innerHTML = `
+                    <th>Imagem</th>
+                    <th>Nome</th>
+                    <th>Descrição</th>
+                    <th>Preço</th>
+                    <th>Quantidade</th>
+                `;
+                cabecalho.appendChild(cabecalhoRow);
+                tabela.appendChild(cabecalho);
+
+                // Criar o corpo da tabela
+                const corpo = document.createElement('tbody');
+                itensComprados.forEach(function(item) {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td><img src="${item.imagem}" alt="Imagem do Produto"></td>
+                        <td>${item.nome}</td>
+                        <td>${item.descricao}</td>
+                        <td>${item.preco}</td>
+                        <td>${item.quantidade}</td>
+                    `;
+                    corpo.appendChild(row);
+                });
+                tabela.appendChild(corpo);
+
+                // Adicionar a tabela à div
+                divTabela.appendChild(tabela);
+            } else {
+                // Se não houver itens comprados, exibir uma mensagem de que não há itens
+                divTabela.innerHTML = '<p>Não há itens comprados.</p>';
+            }
+        }
+
+        // Chamar a função ao carregar a página
+        mostrarInformacoesItemCompra();
+    </script>
+    <script src="teste.js"></script>
+</body>
+</html>

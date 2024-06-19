@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
+    <title>Carrinho de Compras</title>
+    <link rel="stylesheet" href="home.css">
+    <link rel="stylesheet" href="carrinho.css">
+    <script src="carrinho.js" defer></script>
+    <script src="pagamento.js" defer></script>
+    <script src="login.js" defer></script>
+</head>
+<body>
+    <header>
+        <script async src="carrinho.js"></script>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <h1 class="nome-empresa"><a href="home.html">Móveis & Tecnologia</a></h1>
+
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="moveis.html">Móveis</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="celulares.html">Celulares</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="tv_video.html">TV e vídeo</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="eletro-domesticos.html">Eletro-domésticos</a>
+                    </li>
+
+                </ul>
+                <form class="d-flex">
+                    <input id="resultado-pesquisa" class="form-control me-2" type="search"
+                        placeholder="Pesquisar produtos" aria-label="Search" onkeyup="pesquisa()">
+                    
+                </form>
+                <a class="btn btn-outline-light ms-2" href="login.html">Login</a>
+                <a class="btn btn-outline-light ms-2" onclick="logout()">Logout</a>
+
+                <button id="cart" class="btn btn-primary ms-2"
+                    onclick="window.location.href = 'carrinho.html';">Carrinho de Compras <i
+                        class="bi bi-cart"></i></button>
+            </div>
+        </nav>
+    </header>
+    <div id="carrinho">
+        <h3>Carrinho de Compras</h3>
+        <table id="itens-carrinho" class="table">
+            <thead>
+                <tr>
+                    <th>Imagem</th>
+                    <th>Nome</th>
+                    <th>Descrição</th>
+                    <th>Preço</th>
+                    <th>Quantidade</th>
+                    <th>Subtotal</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <p id="total-carrinho">Total: R$ 0.00</p>
+        <button id="ir-comprar" class="btn btn-primary">Finalizar Compra</button>
+    </div>
+
+    <!-- Tabela para mostrar os itens comprados -->
+    <div id="compras-feitas-container">
+        <h2>Compras Feitas</h2>
+        <div id="compras-feitas">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Imagem</th>
+                        <th>Descrição</th>
+                        <th>Quantidade</th>
+                        <th>Preço Unitário</th>
+                        <th>Total</th>
+                        <th>Endereço de entrega</th>
+                       
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+            <button id="Pagina-vendas" onclick="window.location.href = 'vendas.html';" style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">Acessar Página de Vendas</button>
+
+        </div>
+    </div>
+</body>
+</html>
