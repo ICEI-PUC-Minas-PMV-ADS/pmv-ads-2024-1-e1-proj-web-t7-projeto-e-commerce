@@ -38,7 +38,7 @@ RF-01	Permitir aos clientes pesquisar e navegar por produtos por categoria
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL: </br>
+Abra um navegador de Internet e informe a seguinte URL:https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/codigo-fonte/home.html </br>
 
 <hr>
 
@@ -72,7 +72,7 @@ RF-002: Exibir informações detalhadas sobre cada produto, incluindo preço, es
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL: <br>E tera acesso a homepage</br>
+Abra um navegador de Internet e informe a seguinte URL:https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/codigo-fonte/home.html <br>E tera acesso a homepage</br>
 
 <hr>
 
@@ -90,7 +90,7 @@ Exemplo do filtro de adicionar ao carrinho:
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL:  <br>E tera acesso a homepage</br>
+Abra um navegador de Internet e informe a seguinte URL:https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/codigo-fonte/home.html  <br>E tera acesso a homepage</br>
 
 
 
@@ -118,7 +118,7 @@ RF-03	Permitir aos clientes adicionar produtos ao carrinho de compras e proceder
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL: <br>E tera acesso a pagina do carrinho</br>
+Abra um navegador de Internet e informe a seguinte URL:https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/codigo-fonte/carrinho.html <br>E tera acesso a pagina do carrinho</br>
 
 <hr>
 
@@ -152,7 +152,7 @@ RF-004	Permitir que apos os clientes adicionarem produtos ao carrinho de compras
 
 ### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL: <br>e tera acesso a pagina home </br>
+Abra um navegador de Internet e informe a seguinte URL:https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/codigo-fonte/home.html <br>e tera acesso a pagina home </br>
 <hr>
 
 ### Tela formulário de  Pagamento (RF-005)
@@ -180,7 +180,7 @@ RF-005 Oferecer opções de pagamento com cartão de crédito.
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL: <br>E tera acesso a pagina de pagamento</br>
+Abra um navegador de Internet e informe a seguinte URL:https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/codigo-fonte/pagamento.html <br>E tera acesso a pagina de pagamento</br>
 
 <hr>
 
@@ -217,7 +217,7 @@ RF-006	Permitir aos clientes possam verificar os itens comprados
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL: <br>E tera acesso a pagina de carrinho/br>
+Abra um navegador de Internet e informe a seguinte URL:https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/codigo-fonte/carrinho.html <br>E tera acesso a pagina de carrinho/br>
 
 <hr>
 
@@ -253,7 +253,7 @@ RF-007	O site deve permitir os usuarios crição de contas
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL: <br>E tera acesso a pagina de cadastro/br>
+Abra um navegador de Internet e informe a seguinte URL:https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/codigo-fonte/cadastro.html <br>E tera acesso a pagina de cadastro/br>
 
 <hr>
 
@@ -294,7 +294,7 @@ RF-008	O site deve permitir os usuarios fazer log-in de contas
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL: <br>E tera acesso a pagina de login </br>
+Abra um navegador de Internet e informe a seguinte URL:https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/codigo-fonte/login.html <br>E tera acesso a pagina de login </br>
 
 <hr>
 
@@ -327,7 +327,7 @@ RF-009	Disponibilizar relatórios de vendas,para o administrador
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL: <br>E tera acesso a pagina de vendas </br>
+Abra um navegador de Internet e informe a seguinte URL:https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t7-projeto-e-commerce/codigo-fonte/vendas.html <br>E tera acesso a pagina de vendas </br>
 
 <hr>
 
